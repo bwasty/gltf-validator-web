@@ -1,37 +1,42 @@
 body {
-    font-family: Verdana, Geneva, sans-serif;
+  font-family: Verdana, Geneva, sans-serif;
 }
 
 h2 {
-    display: inline-block;
+  display: inline-block;
 }
 
 .github-link {
-    float: right;
+  float: right;
 }
 
 pre {
-    white-space: pre-wrap;
-    word-break: keep-all;
-    background: #f3f3f3;
-    padding: 20px;
-    border-radius: 20px;
+  white-space: pre-wrap;
+  word-break: keep-all;
+  background: #f3f3f3;
+  padding: 20px;
+  border-radius: 20px;
 }
 
 div {
-    display: inline-block;
+  display: inline-block;
 }
 
 .red {
-    color: red;
+  color: red;
 }
 
 #footer {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    padding: 1rem;
-    background-color: #E4E3E3;
-    text-align: center;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #E4E3E3;
+  text-align: center;
+}
+
+#footer a {
+  margin-left: 7px;
+  margin-right: 7px;
 }
